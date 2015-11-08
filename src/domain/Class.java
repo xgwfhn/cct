@@ -5,4 +5,5 @@ public class Class {
      private int age;
      private int score;
      private String addr1;
+     private int sex;
 }
