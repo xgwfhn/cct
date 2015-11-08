@@ -7,6 +7,6 @@ public class Class {
      private String addr1;
      private int sex;
      public void get(){
-    	 
+    	 System.out.println("aaa");
      }
 }
