@@ -6,4 +6,7 @@ public class Class {
      private int score;
      private String addr1;
      private int sex;
+     public void get(){
+    	 
+     }
 }
